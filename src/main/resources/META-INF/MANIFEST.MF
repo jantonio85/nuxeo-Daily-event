@@ -1,0 +1,13 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Name: DailyEvent
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Vendor: Athento
+Bundle-Version: 1.0.qualifier
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: DailyEvent
+Created-By: Athento
+Nuxeo-Component: OSGI-INF/extensions.xml
+
+
